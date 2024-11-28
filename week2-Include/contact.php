@@ -8,20 +8,20 @@
 <body>
     <?php  include 'navbar.php';   ?>
     
-    <h1>Welkom op de contact page</h1>
+    <p>Welkom op de contact page</p>
 
     <form action="">
 
-       <label for="enaam">Naam:</label><br>
-       <input name="enaam" type="text"  id="fname"><br>
+       <label for="firstName">Naam:</label><br>
+       <input name="firstName" type="text"  id="name"><br>
 
-       <label for="anaam">Achternaam:</label><br>
-       <input name="anaam" type="text" id="sname"><br>
+       <label for="lastName">Achternaam:</label><br>
+       <input name="lastName" type="text" id="surname"><br>
 
-       <label for="bericht">Bericht:</label><br>
-       <input name="bericht" type="text" id="message"><br><br>
+       <label for="messageArea">Bericht:</label><br>
+       <input name="messageArea" type="text" id="message"><br><br>
 
-       <button>Indienen</button>
+       <button type="button">Indienen</button>
 
 
 
