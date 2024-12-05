@@ -10,7 +10,7 @@ if( $randomGetal == 6 ){
 } elseif ( $randomGetal == 4 || $randomGetal == 5) {
     echo "U bent gewonnen.";
 } else{
-    echo "U heeft verloren";
+    echo "U heeft verloren.";
 }
 
 ?>

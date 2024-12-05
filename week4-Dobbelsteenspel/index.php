@@ -8,5 +8,9 @@
 <body>
     <h1>Dobbelsteenspel</h1>
     <?php   include "dobbelsteen.php";   ?>
+
+    <h1>Dagdeel</h1>
+    <?php include "dagdeel.php"; ?>
+    
 </body>
 </html>
