@@ -21,7 +21,7 @@
        <label for="messageArea">Bericht:</label><br>
        <input name="messageArea" type="text" id="message"><br><br>
 
-       <button type="button">Indienen</button>
+       <button name="buttonSend" type="button">Indienen</button>
 
 
 
